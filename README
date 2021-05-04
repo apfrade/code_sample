@@ -1,9 +1,14 @@
+***  
+**This is a code sample**
+***  
+
+
 ### About Library
 
 #### Introduction
 
 This is a library of 24 electrostatic potential based 2D molecular descriptors.  
-This work is based on **[Hunter, C. A. (2004). Angewandte Chemie - International Edition, 43(40), 5310–5324](https://doi.org/10.1002/anie.200301739)**    
+This work is based on **[Hunter, C. A. (2004). Angewandte Chemie - International Edition, 43(40), 5310â€“5324](https://doi.org/10.1002/anie.200301739)**    
  
 **Code author/developer:** Andre Frade (with support of Dr. Patrick McCabe and Prof. Richard Cooper)   
 
